@@ -1,2 +1,2 @@
-# Login
-Login App with frameworks SpringBoot and ReactJS
+# FinancasAPP
+Financas App with frameworks SpringBoot and ReactJS
